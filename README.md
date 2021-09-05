@@ -40,6 +40,5 @@ add $r1,$r2,$r3
 sub $r4,$r1,$r5
 
 j 4100
-
-      **** Please note: This is an example of infinite loop ***********  
+**** Please note: This is an example of infinite loop ***********  
 
