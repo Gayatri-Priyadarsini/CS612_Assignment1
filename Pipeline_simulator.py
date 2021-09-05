@@ -332,6 +332,7 @@ def main():
 
       
     pipelinesim.run()
+    print("\n Link to code: https://github.com/Gayatri-Priyadarsini/CS612_Assignment1")
 
 if __name__ == "__main__":
     main()
